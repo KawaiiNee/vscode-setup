@@ -2,7 +2,7 @@
 
 **install eslint**
 
-```
+```console
 npm install --save-dev eslint-config-react-app eslint@^8.0.0
 ```
 
