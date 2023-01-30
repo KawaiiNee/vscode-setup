@@ -16,7 +16,7 @@ npm install --save-dev eslint-config-react-app eslint@^8.0.0
 **install a eslint plugin for vite using the following command**
 
 ```console
-npm i vite-plugin-eslint
+npm install --save-dev vite-plugin-eslint
 ```
 
 **Once installed, add this to vite.config.js as plugin like so**
