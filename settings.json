@@ -75,6 +75,7 @@
     }
   ],
   "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
   "editor.tabSize": 2,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
