@@ -62,8 +62,6 @@
   "php.validate.executablePath": "C:\\Program Files\\php\\php.exe",
   "php.validate.enable": false,
   "terminal.integrated.enableMultiLinePasteWarning": false,
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Community Material Theme Ocean High Contrast",
   "todohighlight.keywords": [
     {
       "text": "TODO:",
@@ -90,5 +88,9 @@
   "[blade]": {
     "editor.defaultFormatter": "amirmarmul.laravel-blade-vscode",
     "editor.formatOnSave": true
-  }
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Material Theme Ocean High Contrast",
+  "editor.wordWrap": "on",
+  "explorer.compactFolders": false
 }
