@@ -1,4 +1,4 @@
-<h1 align="center"> vscode-setup </h1>
+# vscode-setup
 
 ## Extensions
 ![alt text](./ext-1.png)
