@@ -57,7 +57,8 @@
     "source.fixAll.eslint": true
   },
   "files.associations": {
-    "*.module": "php"
+    "*.module": "php",
+    "*.css": "tailwindcss"
   },
   "php.validate.executablePath": "C:\\Program Files\\php\\php.exe",
   "php.validate.enable": false,
