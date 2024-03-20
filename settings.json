@@ -62,7 +62,6 @@
   },
   "php.validate.executablePath": "C:\\Program Files\\php\\php.exe",
   "php.validate.enable": false,
-  "terminal.integrated.enableMultiLinePasteWarning": false,
   "todohighlight.keywords": [
     {
       "text": "TODO:",
@@ -78,18 +77,10 @@
   "editor.tabSize": 2,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "[svelte]": {
-    "editor.defaultFormatter": "svelte.svelte-vscode"
-  },
   "editor.suggest.showSnippets": false,
   "editor.accessibilitySupport": "off",
   "editor.suggest.showDeprecated": false,
   "intelephense.files.associations": ["*.php", "*.phtml"],
-  "blade.format.enable": true,
-  "[blade]": {
-    "editor.defaultFormatter": "amirmarmul.laravel-blade-vscode",
-    "editor.formatOnSave": true
-  },
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Material Theme Ocean High Contrast",
   "editor.wordWrap": "on",
