@@ -83,6 +83,5 @@
   "intelephense.files.associations": ["*.php", "*.phtml"],
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Material Theme Ocean High Contrast",
-  "editor.wordWrap": "on",
   "explorer.compactFolders": false
 }
